@@ -1,0 +1,6 @@
+{
+  "name": "Apex Survivor",
+  "description": "A top-down 2D survival arcade game built step-by-step with HTML5 Canvas and JavaScript.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
